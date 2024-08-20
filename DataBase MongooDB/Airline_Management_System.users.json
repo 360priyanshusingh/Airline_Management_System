@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6617c9c7042da19fdb46abdd"
+  },
+  "fname": "Priyanshu",
+  "lname": "Sisodiya",
+  "email": "abc@.com",
+  "password": "1234",
+  "pic": "pic_1712835015218.jpg",
+  "birthDate": "2024-04-06",
+  "contact": "152423122",
+  "gender": "male",
+  "city": "Amla",
+  "country": "India",
+  "pincode": "460551",
+  "state": "Mp",
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6617ca25042da19fdb46abe0"
+  },
+  "fname": "Khushi",
+  "lname": "Parmar",
+  "email": "ab@.com",
+  "password": "1234",
+  "pic": "pic_1712835109032.jpg",
+  "birthDate": "2024-04-01",
+  "contact": "12345678",
+  "gender": "female",
+  "city": "betul",
+  "country": "India",
+  "pincode": "343425",
+  "state": "Bihar",
+  "status": "Pending",
+  "__v": 0
+}]
